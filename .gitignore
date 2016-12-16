@@ -48,6 +48,3 @@ jspm_packages
 
 #bootstrap source files copied form npm 
 bootstrap_src
-
-#build folder
-dist
